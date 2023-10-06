@@ -10,7 +10,7 @@ We are using the TCGA (The Cancer Genome Atlas Program) dataset downloaded from 
 **3. Evaluation:**
 * Our goal is to beat the scores of current research papers on Brain Tumor segmentation from MRI scans.
 * In 2021, Lucas Fidon, Sebastien Ourselin, and Thomas Vercauteren used the nnUNet architecture-based model which had achieved an accuracy of 92% on the segmentation of the Brain Tumor.
-* So, our model needs to score more than 92% accuracy.
+* So, our model needs to achieve more than 92% accuracy.
 * We are using Tversky accuracy and loss as our evaluation metrics.
 
 **4. Features:**
