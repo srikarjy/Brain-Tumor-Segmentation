@@ -1,4 +1,4 @@
-# Brain-TumorSegmentation
+# Brain-Tumor-Segmentation
 This notebook builds end-to-end image classifier and image segmentation models using TensorFlow 2.0.
 
 **1. Problem:**
